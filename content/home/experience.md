@@ -19,27 +19,42 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Engineer"
+  company = "GEIRI North America"
+  company_url = "www.geirina.net"
+  location = "San Jose, California"
+  date_start = "2017-03"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Responsibilities include:"""Perform research projects on the following topics:
+
+  * PMU data analytics 
+  * Mixed-mode Operation & Stacked Value of energy storage
+  * Opal-RT 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Research Assistant"
+  company = "Virginia Polytechnic Institute and State University"
+  company_url = "http://www.ari.vt.edu/"
+  location = "Arlington, Virginia"
+  date_start = "2011-07"
+  date_end = "2016-12"
+  description = """Perform research projects on the following topics:
+  
+  * NSF project: "Role of the Smart Grid in Alleviating Electrical Power System Stress Conditions through Demand Response". 
+  * NSF project: "Optimizing Electric Power Distribution Network Operation with Demand Response, Solar Photovoltaics and Energy Storage to Mitigate the Impact of Growing Electric Vehicle Penetration."
+  * Real-time Co-simulation Platform using OPAL-RT and OPNET for Analyzing Smart Grid Performance.
+  """
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Florida"
+  company_url = "http://www.list.ufl.edu/latchman.htm"
+  location = "Gainesville, Florida"
+  date_start = "2011-06"
+  date_end = "2009-09"
+  description = """Perform research projects on the following topics:
+  
+  * Set up MIMO (Multiple-Input Multiple-Output) -Power Line Communication (PLC) system for implementation of power system applications.
+  """
 +++
