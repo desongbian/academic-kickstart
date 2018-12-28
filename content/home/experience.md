@@ -25,8 +25,7 @@ date_format = "January 2006"
   location = "San Jose, California"
   date_start = "2017-03"
   date_end = ""
-  description = """
-  Responsibilities include:"""Perform research projects on the following topics:
+  description = """Perform research projects on the following topics:
 
   * PMU data analytics 
   * Mixed-mode Operation & Stacked Value of energy storage
