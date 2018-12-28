@@ -1,11 +1,11 @@
 +++
 
-title = "Comparison of scenario reduction techniques for the stochastic unit commitment"
-date = 2014-07-27T00:00:00
+title = "Real-time co-simulation platform using OPAL-RT and OPNET for analyzing smart grid performance"
+date = 2015-07-30T00:00:00 
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yury Dvorkin", "__**Yishen Wang**__", "Hrvoje Pandžić", "Daniel Kirschen"]
+authors = ["D. Bian", "M. Kuzlu", "M. Pipattanasomporn", "S. Rahman", "Y. Wu"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Yury Dvorkin", "__**Yishen Wang**__", "Hrvoje Pandžić", "Daniel Ki
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, National Harbor, MD, USA, July 2014."
+publication = "*IEEE PES General Meeting*, Denver, CO, USA July 2015."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.
-abstract = "A number of scenario reduction techniques have been proposed to make possible the practical implementation of stochastic unit commitment formulations. These scenario-reduction techniques aggregate similar scenarios based on their metrics, such as their probability, hourly magnitudes, or the cost resulting from each scenario. This paper compares these different scenario reduction techniques in terms of the resulting operating cost and the amount of time required to complete computation of the stochastic UC. This comparison is based on Monte Carlo simulations of the resulting generation schedules for a modified version of the 24-bus IEEE-RTS."
+abstract = "The objective of this paper is to present a real-time co-simulation platform for analyzing electric power grid operation, taking into account integrated communication systems. This paper discusses how a co-simulation platform can be set up using OPNET and OPAL-RT as communication and power system simulators, respectively. A simplified distribution automation case study is demonstrated to show how the co-simulation platform can be used to analyze performance of the smart grid operation in real-time."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/6939042"
+url_pdf = "https://ieeexplore.ieee.org/document/7286238"
 url_preprint = ""
 #url_code = ""
 #url_dataset = ""
