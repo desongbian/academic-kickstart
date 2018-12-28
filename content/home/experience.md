@@ -23,10 +23,10 @@ date_format = "January 2006"
   company = "GEIRI North America"
   company_url = "www.geirina.net"
   location = "San Jose, California"
-  date_start = "2017-03"
+  date_start = "2017-03-01"
   date_end = ""
   description = """Perform research projects on the following topics:
-  * PMU data analytics 
+  * PMU Data Analytics 
   * Mixed-mode Operation & Stacked Value of energy storage
   * Opal-RT 
   """
@@ -36,11 +36,11 @@ date_format = "January 2006"
   company = "Virginia Polytechnic Institute and State University"
   company_url = "http://www.ari.vt.edu/"
   location = "Arlington, Virginia"
-  date_start = "2011-07"
-  date_end = "2016-12"
+  date_start = "2011-07-01"
+  date_end = "2016-12-31"
   description = """Perform research projects on the following topics:
-  * NSF project: Role of the Smart Grid in Alleviating Electrical Power System Stress Conditions through Demand Response. 
-  * NSF project: Optimizing Electric Power Distribution Network Operation with Demand Response, Solar Photovoltaics and Energy Storage to Mitigate the Impact of Growing Electric Vehicle Penetration.
+  * NSF project - Role of the Smart Grid in Alleviating Electrical Power System Stress Conditions through Demand Response. 
+  * NSF project - Optimizing Electric Power Distribution Network Operation with Demand Response, Solar Photovoltaics and Energy Storage to Mitigate the Impact of Growing Electric Vehicle Penetration.
   * Real-time Co-simulation Platform using OPAL-RT and OPNET for Analyzing Smart Grid Performance.
   """
 [[experience]]
@@ -48,8 +48,8 @@ date_format = "January 2006"
   company = "University of Florida"
   company_url = "http://www.list.ufl.edu/latchman.htm"
   location = "Gainesville, Florida"
-  date_start = "2011-06"
-  date_end = "2009-09"
+  date_start = "2011-06-01"
+  date_end = "2009-09-01"
   description = """Perform research projects on the following topics:
   * Set up MIMO (Multiple-Input Multiple-Output) -Power Line Communication (PLC) system for implementation of power system applications.
   """
