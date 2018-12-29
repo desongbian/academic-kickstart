@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/6939042"
+url_pdf = "https://ieeexplore.ieee.org/document/6939562"
 url_preprint = ""
 #url_code = ""
 #url_dataset = ""
