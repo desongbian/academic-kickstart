@@ -19,8 +19,8 @@ authors = ["Shuo Yang", "Desong Bian"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*2008 Second International Symposium on Intelligent Information Technology Application*,Shanghai, China, Dec 2008."
-publication_short = "*IITA*"
+publication = "*IEEE International Symposium on Intelligent Information Technology Application*,Shanghai, China, Dec 2008."
+publication_short = "*IEEE IITA*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we describe a modified algorithm based on the multi-scale morphological derivative (MMD) transform. By introducing the 'wing' function and by delineating the time interval over which the location of the T-wave end are searched, the T wave pattern and T wave length can be determined. According to the different lengths of T waves, different scales are calculated to perform the MMD transform. According to our experiments, we find the formula to calculate the transform scales which is significant for the MMD detector processing lots of signals with various waveforms effectively in real time system."
