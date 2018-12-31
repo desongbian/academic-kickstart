@@ -27,7 +27,7 @@ abstract = "Precisely locating low-frequency oscillation sources is the prerequi
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
