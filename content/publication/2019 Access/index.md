@@ -1,7 +1,7 @@
 +++
 
 title = "Mitigating the Impact of Renewable Variability with Demand-Side Resources Considering Communication and Cyber Security Limitations"
-date = 2019-01-21T00:00:00
+date = 2018-12-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
