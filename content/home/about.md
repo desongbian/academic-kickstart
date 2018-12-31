@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Smart Grid",
-    "Artificial Intelligence",
-    "Communication System/Network"
+    "Communication System/Network",
+    "Artificial Intelligence"
+    
   ]
 
 # List your qualifications (such as academic degrees).
