@@ -1,7 +1,7 @@
 +++
 
 title = "Optimal energy management for commercial buildings considering comprehensive comfort levels in a retail electricity market"
-date = 2019-01-21T00:00:00
+date = 2018-12-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
