@@ -27,7 +27,7 @@ abstract = "In order to improve the accuracy of channel estimation in MIMO space
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
