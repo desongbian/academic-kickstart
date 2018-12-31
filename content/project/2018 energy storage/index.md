@@ -6,7 +6,7 @@ title = "Hybrid Energy Storage Management Platform for Integrated Energy System"
 date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "Hybrid Energy Storage"
+summary = "PMU & System Analytics Group"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
