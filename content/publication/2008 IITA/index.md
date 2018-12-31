@@ -27,7 +27,7 @@ abstract = "In this paper, we describe a modified algorithm based on the multi-s
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
