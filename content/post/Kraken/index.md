@@ -31,3 +31,5 @@ Gender: Male
 Birth: 2016.10.23 in West Pennsboro, PA
 
 The Kraken is perhaps the largest monster ever imagined by mankind. In Nordic folklore, it was said to haunt the seas from Norway through Iceland and all the way to Greenland. The Kraken had a knack for harassing ships and many pseudoscientific reports.
+
+https://en.wikipedia.org/wiki/Kraken
