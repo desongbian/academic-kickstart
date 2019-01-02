@@ -1,5 +1,5 @@
 title = "Danger! Beware of Dog!"
-date = 2018-06-24T00:00:00
+#date = 2018-06-24T00:00:00
 
 # List format.
 #   0 = Simple
@@ -12,11 +12,3 @@ list_format = 0
 
 #image = ""
 #caption = ""
-
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
