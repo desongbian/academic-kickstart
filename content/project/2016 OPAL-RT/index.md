@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Hybrid Energy Storage Management Platform for Integrated Energy System"
+title = "Real-time Co-simulation Platform using OPAL-RT and OPNET for Analyzing Smart Grid Performance"
 
 # Date this page was created.
 date = 2018-12-01T00:00:00
