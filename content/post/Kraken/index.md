@@ -16,7 +16,7 @@ list_format = 0
 
 [image]
   # Caption (optional)
-  caption = "Photo by Zhe Yu"
+  #caption = "Photo by Zhe Yu"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
