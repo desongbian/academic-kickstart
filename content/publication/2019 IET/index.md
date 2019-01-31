@@ -19,8 +19,8 @@ authors = ["Desong Bian", "Murat Kuzlu", "Manisa Pipattanasomporn", "Saifur Rahm
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IET Communications, Jan 2019."
-publication_short = "*IEEE Communications*"
+publication = "IET Communications"
+publication_short = "IEEE Communications"
 
 # Abstract and optional shortened version.
 abstract = "Design of an effective and reliable communication network supporting smart grid applications requires a selection of appropriate communication technologies and protocols. The objective of this paper is to study and quantify the capabilities of an Advanced Metering Infrastructure (AMI) to support the simultaneous operation of major smart grid functions. These include smart metering, price-induced controls, distribution automation, demand response and electric vehicle charging/discharging applications in terms of throughput and latency. OPNET is used to simulate the performance of selected communication technologies and protocols. Research findings indicate that smart grid applications can operate simultaneously by piggybacking on an existing AMI infrastructure and still achieve their latency requirements."
