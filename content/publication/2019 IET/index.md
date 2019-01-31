@@ -27,7 +27,7 @@ abstract = "Design of an effective and reliable communication network supporting
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
